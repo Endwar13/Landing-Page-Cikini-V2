@@ -1,0 +1,6 @@
+{
+  "name": "Percik KIIC Homepage",
+  "description": "Website Homepage Resmi SMK Perguruan Cikini KIIC Karawang dengan Tema Sky-Blue",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
