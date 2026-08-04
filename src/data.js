@@ -2,13 +2,13 @@ export const PROFILE_DATA = {
   accreditation: "A",
   established: "2012",
   location: "Kawasan Industri KIIC, Karawang, Jawa Barat",
-  vision: "Menjadi Sekolah Menengah Kejuruan berstandar nasional dan internasional yang mampu menghasilkan lulusan berakhlak mulia, kompeten, mandiri, dan berdaya saing global di era industri modern.",
+  vision: "Terwujudnya lulusan yang berakhlak mulia, kompeten, berdaya saing global, dan berwawasan lingkungan.",
   missions: [
-    "Menyelenggarakan pendidikan kejuruan yang adaptif dengan kebutuhan industri global, khususnya di Kawasan Industri KIIC.",
-    "Membentuk karakter peserta didik yang disiplin, berintegritas, berakhlak mulia, dan berjiwa wirausaha.",
-    "Mengembangkan sarana prasarana praktek bersertifikasi industri untuk menjamin kualitas kompetensi teknis.",
-    "Membangun kemitraan strategis yang erat dengan dunia usaha dan industri (DUDI) dalam program link and match.",
-    "Menyelenggarakan sertifikasi kompetensi keahlian berskala nasional dan internasional."
+    "Mengembangkan karakter dan akhlak mulia peserta didik melalui pembiasaan nilai-nilai agama, etika, dan budi pekerti luhur dalam kehidupan sehari-hari.",
+    "Menyelenggrakan proses pembelajaranyang inovatif dan berkualitas untuk menghasilkan lulusan yang kompeten di bidangnya.",
+    "Meningkapkan keterampilan dan daya saing global peserta didik melalui penguasaan teknologi, bahasa asing, serta kolaborasi denga berbagai pihak.",
+    "Menumbuhkan kesadaran dan kepedulian terhadap lingkungan melalui edukasi program ramah lingkunganserta pembiasaaan gaya hidup berkelanjutan di lingkungan sekolah.",
+    "Menciptakan lingkungan sekolah yang kondusif, inklusif, dan inspiratif, sebagai pusat pengembangan potensi akademik, non akademik, dan karakter peserta didik."
   ],
   stats: [
     { value: "94%", label: "Tingkat Kesiapan Kerja Lulusan", description: "Lulusan langsung diserap industri, melanjutkan kuliah, atau berwirausaha." },
@@ -38,7 +38,7 @@ export const PROFILE_DATA = {
       icon: "Activity"
     },
     {
-      title: "Lab Jaringan Cisco & Fiber Optic",
+      title: "Lab Jaringan Komputer & Server",
       description: "Sarana praktek jaringan komputer lengkap dengan Router & Switch Cisco, peralatan fusion splicer serat optik, dan server lokal.",
       icon: "Network"
     },
