@@ -110,13 +110,6 @@ export default function Hero({ scrollY, schoolLogo, heroBg, scrollToSection }) {
 
       </div>
 
-      {/* Bottom fading scroll indicator */}
-      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 flex flex-col items-center text-slate-400 animate-bounce">
-        <span className="text-[10px] tracking-widest uppercase mb-1 font-semibold text-sky-400/80">Scroll</span>
-        <div className="w-5 h-8 border-2 border-slate-500 rounded-full flex items-start justify-center p-1">
-          <div className="w-1.5 h-1.5 bg-sky-400 rounded-full animate-ping" />
-        </div>
-      </div>
 
     </section>
   );

@@ -98,10 +98,10 @@ export default function ProfileSection({ profileData }) {
             </p>
             <div className="flex items-center space-x-3.5">
               <div className="w-10 h-10 rounded-full bg-sky-400/30 border border-sky-300/40 flex items-center justify-center font-bold text-sm">
-                KS
+                W
               </div>
               <div>
-                <h5 className="font-bold text-sm">Giri Sasmita, M.Pd.</h5>
+                <h5 className="font-bold text-sm">Drs Wurdono, M.Pd.</h5>
                 <p className="text-xs text-sky-200">Kepala Sekolah SMK Percik KIIC</p>
               </div>
             </div>
