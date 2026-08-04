@@ -211,11 +211,11 @@ export const INDUSTRIAL_DATA = {
   partners: [
     { name: "PT Toyota Motor Manufacturing Indonesia", logoText: "Toyota TMMIN", category: "Otomotif" },
     { name: "PT Astra Daihatsu Motor", logoText: "Daihatsu ADM", category: "Otomotif" },
-    { name: "PT Denso Indonesia", logoText: "Denso", category: "Otomotif & Elektronik" },
+    { name: "PT Boltz Indonesia", logoText: "Boltz", category: "Manufaktur" },
     { name: "PT Yamaha Motor Parts Mfg.", logoText: "Yamaha YPMI", category: "Otomotif" },
-    { name: "PT Epson Indonesia", logoText: "Epson", category: "Elektronik & Manufaktur" },
-    { name: "PT JVC Kenwood Indonesia", logoText: "JVCKenwood", category: "Elektronik" },
-    { name: "PT DHL Supply Chain Indonesia", logoText: "DHL Logistics", category: "Logistik" },
+    { name: "PT Kasai", logoText: "Kasai", category: "Manufaktur" },
+    { name: "PT ICHI", logoText: "ICHI", category: "Elektronik" },
+    { name: "PT Glico Wings", logoText: "Glico Wings", category: "F&B" },
     { name: "PT Sharp Semiconductor Indonesia", logoText: "Sharp SSI", category: "Elektronik" }
   ],
   testimonials: [

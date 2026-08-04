@@ -33,7 +33,7 @@ export default function Footer({ schoolLogo, majorsData, scrollToSection, setAct
           </p>
           <div className="flex items-center space-x-4">
             <span className="text-xs font-semibold text-slate-500">Kunjungi:</span>
-            <a href="https://percikkiic.sch.id" target="_blank" rel="noopener noreferrer" className="p-2 rounded-lg bg-slate-800 text-slate-400 hover:text-sky-400 hover:bg-slate-700/80 transition-colors">
+            <a href="https://smkperguruancikini-kiic.sch.id/" target="_blank" rel="noopener noreferrer" className="p-2 rounded-lg bg-slate-800 text-slate-400 hover:text-sky-400 hover:bg-slate-700/80 transition-colors">
               <Globe size={15} />
             </a>
           </div>
@@ -62,15 +62,15 @@ export default function Footer({ schoolLogo, majorsData, scrollToSection, setAct
           <ul className="space-y-3.5 text-xs">
             <li className="flex items-start space-x-2.5">
               <MapPin size={15} className="text-sky-400 shrink-0 mt-0.5" />
-              <span>Jl. Permata Raya Blok C1, Kawasan Industri KIIC, Sukaluyu, Karawang Barat, Karawang, Jawa Barat 41361</span>
+              <span>Jl. Permata Raya Kawasan industri KIIC No.IV, Sukaluyu, Telukjambe Timur, Karawang, Jawa Barat 41361</span>
             </li>
             <li className="flex items-center space-x-2.5">
               <Phone size={15} className="text-sky-400 shrink-0" />
-              <span>+62 267 845 0883</span>
+              <span>+62 812-9206-906</span>
             </li>
             <li className="flex items-center space-x-2.5">
               <Mail size={15} className="text-sky-400 shrink-0" />
-              <span>info@percikkiic.sch.id</span>
+              <span>smkperguruancikini-kiic.sch.id</span>
             </li>
           </ul>
         </div>

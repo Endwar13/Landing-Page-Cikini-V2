@@ -94,7 +94,7 @@ export default function ProfileSection({ profileData }) {
             
             <h4 className="text-[13px] font-bold text-sky-200 tracking-wider uppercase mb-1">Sambutan Kepala Sekolah</h4>
             <p className="text-sm md:text-base leading-relaxed text-sky-50/90 italic mb-6">
-              &ldquo;Selamat datang di SMK Perguruan Cikini KIIC. Kami berdedikasi tinggi memberikan standar pendidikan terbaik, disiplin industri, dan link-and-match yang riil bersama mitra industri kami. Di sini, karir masa depan anak didik kami dimulai sejak hari pertama mereka masuk sekolah.&rdquo;
+              &ldquo;Selamat Datang di SMK Perguruan CIKINI-KIIC. Sebuah sekolah vokasi masa depan yang berada di kawasan industri KIIC Karawang. Kami hadir dengan misi untuk menyiapkan calon karyawan di kawasan KIIC Karawang sehingga masyarakat Karawang yang terlatih dapat terserap di industri KIIC Karawang.&rdquo;
             </p>
             <div className="flex items-center space-x-3.5">
               <div className="w-10 h-10 rounded-full bg-sky-400/30 border border-sky-300/40 flex items-center justify-center font-bold text-sm">
@@ -123,7 +123,7 @@ export default function ProfileSection({ profileData }) {
               <div className="absolute inset-0 bg-[radial-gradient(#e2e8f0_1px,transparent_1px)] bg-size-[16px_16px] flex flex-col items-center justify-center p-6 text-center">
                 <MapPin size={28} className="text-red-500 mb-2 animate-bounce" />
                 <span className="font-bold text-xs text-slate-800">SMK Perguruan Cikini KIIC Karawang</span>
-                <span className="text-[10px] text-slate-400">Jl. Permata Raya Blok C1, Kawasan Industri KIIC</span>
+                <span className="text-[10px] text-slate-400">Jl. Permata Raya Kawasan industri KIIC No.IV, Sukaluyu, Telukjambe Timur, Karawang, Jawa Barat 41361</span>
               </div>
             </div>
           </div>

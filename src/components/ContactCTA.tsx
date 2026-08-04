@@ -10,7 +10,7 @@ export default function ContactCTA() {
         {/* Left column */}
         <div className="lg:col-span-7 space-y-6 text-center lg:text-left">
           <span className="text-xs font-bold uppercase tracking-widest text-sky-200 bg-sky-500/30 px-3.5 py-1.5 rounded-full inline-block">
-            Konsultasi & Kunjungan Kampus
+            Konsultasi & Kunjungan Sekolah
           </span>
           <h2 className="text-3xl md:text-4xl font-black tracking-tight leading-tight">
             Ingin Tahu Lebih Banyak Tentang Percik KIIC?
@@ -23,7 +23,7 @@ export default function ContactCTA() {
             <div className="flex items-center space-x-3 bg-white/5 p-4 rounded-xl border border-white/10 backdrop-blur-sm">
               <MapPin size={18} className="text-sky-300 shrink-0" />
               <div>
-                <span className="text-[10px] text-sky-200 font-bold uppercase tracking-wider block">Lokasi Kampus</span>
+                <span className="text-[10px] text-sky-200 font-bold uppercase tracking-wider block">Lokasi Sekolah</span>
                 <span className="text-xs font-medium text-slate-100">KIIC Karawang Barat</span>
               </div>
             </div>
@@ -45,7 +45,7 @@ export default function ContactCTA() {
             className="px-8 py-4 bg-white text-sky-700 font-black text-sm rounded-xl shadow-xl transition-all hover:bg-slate-50 hover:scale-[1.02] cursor-pointer text-center flex items-center justify-center space-x-3.5"
           >
             <Phone size={16} />
-            <span>Telepon Kantor (+62-267-845-0883)</span>
+            <span>Telepon Kantor (+62 812-9206-906)</span>
           </a>
           
           <a
