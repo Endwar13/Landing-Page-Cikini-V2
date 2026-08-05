@@ -29,11 +29,11 @@ function FacilityIcon({ name, className }) {
 
 export default function ProfileSection({ profileData }) {
   return (
-    <section id="profil" className="py-24 px-6 max-w-7xl mx-auto scroll-mt-20">
+    <section id="profil" className="bg-sky-300 py-24 px-6 max-w-7xl mx-auto scroll-mt-20">
       
       {/* Title Header */}
-      <div className="text-center max-w-3xl mx-auto mb-16">
-        <div className="inline-flex items-center space-x-2 bg-sky-50 border border-sky-100 px-3.5 py-1.5 rounded-full text-xs font-semibold text-sky-700 uppercase tracking-widest mb-4">
+      <div className="bg-sky-300 text-center max-w-3xl mx-auto mb-16">
+        <div className="inline-flex items-center space-x-2 bg-sky-300 border border-sky-100 px-3.5 py-1.5 rounded-full text-xs font-semibold text-sky-700 uppercase tracking-widest mb-4">
           <GraduationCap size={14} className="text-sky-600" />
           <span>Profil Sekolah</span>
         </div>

@@ -2,7 +2,7 @@ import { Users, Quote } from "lucide-react";
 
 export default function IndustrySection({ industrialData }) {
   return (
-    <section id="kerjasama" className="py-24 px-6 max-w-7xl mx-auto scroll-mt-20">
+    <section id="kerjasama" className="bg-sky-300 py-24 px-6 max-w-7xl mx-auto scroll-mt-20">
       
       {/* Title Header */}
       <div className="text-center max-w-3xl mx-auto mb-16">

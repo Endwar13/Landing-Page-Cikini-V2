@@ -3,7 +3,7 @@ import { Cpu, Flame, CheckCircle2, Briefcase, ChevronRight, Info } from "lucide-
 
 export default function MajorsSection({ majorsData, activeTab, setActiveTab, onSelectMajorDetail }) {
   return (
-    <section id="jurusan" className="bg-white py-24 border-y border-sky-100/60 scroll-mt-20">
+    <section id="jurusan" className="bg-sky-300 py-24 border-y border-sky-100/60 scroll-mt-20">
       <div className="max-w-7xl mx-auto px-6">
         
         {/* Section Header */}
